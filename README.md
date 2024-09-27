@@ -34,7 +34,7 @@
 
 ## 팀원 [![Contributors](https://img.shields.io/badge/Contributors-4-green)]() ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parkjihyoun/oss_new)
 
-| 학번          | 이름    | Github ID        |
+| 학번          | 이름    | Github ID(링크)     |
 | ------------- | ------- | ---------------- |
 | [2023015357](#컴퓨터학부--2023015357--박지현--parkjihyoun)    | 박지현  | [parkjihyoun](https://github.com/parkjihyoun) |
 | [2023014587](#컴퓨터학부--2023014587--신여원--sinyeowon)    | 신여원  | [sinyeowon](https://github.com/sinyeowon)     |
