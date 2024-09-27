@@ -32,7 +32,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=250&section=header&text=Linux&fontSize=100" />
 
-## 팀원 [![Contributors](https://img.shields.io/badge/Contributors-4-green)]()
+## 팀원 [![Contributors](https://img.shields.io/badge/Contributors-4-green)]() ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parkjihyoun/oss_new)
 
 | 학번          | 이름    | Github ID        |
 | ------------- | ------- | ---------------- |
@@ -124,3 +124,6 @@ APT는 주로 **데비안(Debian)** 및 **우분투(Ubuntu)** 계열의 리눅�
 /tmp: 임시 파일을 저장하는 디렉터리로, 재부팅 시 내용이 삭제됩니다.  
 
 *[Tree](https://namu.wiki/w/%ED%8A%B8%EB%A6%AC(%EA%B7%B8%EB%9E%98%ED%94%84), "What is Tree?") : 트리에 대한 설명
+
+---------------------------------------------------------------------------
+
