@@ -32,7 +32,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=250&section=header&text=Linux&fontSize=100" />
 
-### 팀원
+### 팀원 [![Contributors](https://img.shields.io/badge/Contributors-4-green)]()
+
 - [2023015357 / 박지현](#컴퓨터학부--2023015357--박지현--parkjihyoun)
 - [2023014587 / 신여원](#컴퓨터학부--2023014587--신여원--sinyeowon)
 - [2023000000 / 신서연](#컴퓨터학부--2023003007--신서연--syd348)
