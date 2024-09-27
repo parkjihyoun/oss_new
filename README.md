@@ -27,6 +27,10 @@
 - LMS 과제제출 시 작성내용: 
   * Github 주소 (예: https://github.com/팀장계정/레포지토리이름) (외부 사이트로 연결합니다.)
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=250&section=header&text=Linux&fontSize=100" />
+
 ---------------------------------------------------------------------------
 컴퓨터학부 / 2023015357 / 박지현 / parkjihyoun
 <h3> 오픈소스와 커스터마이징 </h3> 
