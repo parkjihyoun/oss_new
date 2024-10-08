@@ -4,14 +4,17 @@
 
 ## 팀원 [![Contributors](https://img.shields.io/badge/Contributors-4-green)]() ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parkjihyoun/oss_new)
 
-| 학번          | 이름    | Github ID(링크)     |
-| ------------- | ------- | ---------------- |
-| [2023015357](#컴퓨터학부--2023015357--박지현--parkjihyoun)    | 박지현  | [parkjihyoun](https://github.com/parkjihyoun) |
-| [2023014587](#컴퓨터학부--2023014587--신여원--sinyeowon)    | 신여원  | [sinyeowon](https://github.com/sinyeowon)     |
-| [2023003007](#컴퓨터학부--2023003007--신서연--syd348)    | 신서연  | [syd348](https://github.com/syd348)           |
-| [2022116441](#컴퓨터학부--2022116441--진동현--JinVibe)    | 진동현  | [JinVibe](https://github.com/JinVibe)           |
+팀원 전공 | 학번          | 이름    | Github ID(링크)     |
+|------| ------------- | ------- | ---------------- |
+|컴퓨터학부 글로벌SW융합전공| [2023015357](#컴퓨터학부--2023015357--박지현--parkjihyoun)    | 박지현  | [parkjihyoun](https://github.com/parkjihyoun) |
+|컴퓨터학부 글로벌SW융합전공| [2023014587](#컴퓨터학부--2023014587--신여원--sinyeowon)    | 신여원  | [sinyeowon](https://github.com/sinyeowon)     |
+|컴퓨터학부 글로벌SW융합전공| [2023003007](#컴퓨터학부--2023003007--신서연--syd348)    | 신서연  | [syd348](https://github.com/syd348)           |
+|컴퓨터학부 글로벌SW융합전공| [2022116441](#컴퓨터학부--2022116441--진동현--JinVibe)    | 진동현  | [JinVibe](https://github.com/JinVibe)           |
 
-
+컴퓨터학부 글로벌SW융합전공/2023015357/박지현/parkjihyoun
+컴퓨터학부 글로벌SW융합전공/2023014587/신여원/sinyeowon
+컴퓨터학부 글로벌SW융합전공/2023014587/신서연/syd348
+컴퓨터학부 글로벌SW융합전공/2022116441/진동현/JinVibe
 
 
 <h2>1. 개요 </h2>
