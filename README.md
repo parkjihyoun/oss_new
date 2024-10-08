@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=250&section=header&text=Linux&fontSize=100" />
-
+<h2> 리눅스 </h2>
 ## 팀원 [![Contributors](https://img.shields.io/badge/Contributors-4-green)]() ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/parkjihyoun/oss_new)
 
 | 학번          | 이름    | Github ID(링크)     |
